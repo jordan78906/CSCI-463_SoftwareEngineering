@@ -1,4 +1,4 @@
-In project CLYPEUM leaned heavily in prior SCADA technician experience to develope a fire alarm interface that is intuitive for operators to use. 
+In project CLYPEUM leaned heavily on prior SCADA technician experience to develope a fire alarm interface that is intuitive for operators to use. 
 
 
 
